@@ -11,7 +11,7 @@ $
 == (2)
 
 $
-  d_"model" = h * d_"head" = 29 * 28 = 812
+  d_"model" = h d_"head" = 29 times 28 = 812
 $
 
 == (3)
@@ -48,11 +48,11 @@ $
 Total (parameters):
 
 $
-  (2^28 + 2^29) L + 2^29 = L times 2^30 = 52076478464
+  (2^28 + 2^29) L + 2^29 = 97 times 2^29 = 52076478464
 $
 
 Total memory: 
 
 $
-  52076478464 * 2 = 104152956928 "btyes"
+  97 times 2^29 times 2 = 97 times 2^30 = 104152956928 "btyes" = 97 "GiB"
 $
